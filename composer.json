@@ -1,0 +1,14 @@
+{
+    "name": "meanbee/rocketeer-magento",
+    "description": "Magento plugin for Rocketeer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tomas Gerulaitis",
+            "email": "tomas.gerulaitis@meanbee.com"
+        }
+    ],
+    "require": {
+        "anahkiasen/rocketeer": "~2.2.0"
+    }
+}
